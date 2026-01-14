@@ -1,7 +1,7 @@
 ---
 title: "日语学习"
 description: "一个月速成n2经验贴"
-pubDatetime: 2026-01-14T20:30:00
+pubDatetime: 2026-01-14T14:30:00
 author: "Shinna"
 slug: "japanese-learning"
 featured: true
